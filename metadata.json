@@ -1,0 +1,6 @@
+{
+  "name": "WebP Studio",
+  "description": "Batch convert PNG and JPEG images to optimized WebP with lossy or lossless compression, resize presets, and instant gallery or folder export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

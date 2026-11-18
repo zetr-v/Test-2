@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">WebP Studio</string>
+
+    <!-- Home / First Menu -->
+    <string name="home_top_title">Image to WebP</string>
+    <string name="home_hero_title">Image to WebP</string>
+    <string name="home_hero_subtitle">Upload your PNG or JPEG images and convert them all at once.</string>
+    <string name="home_drop_title">Select images or folders here</string>
+    <string name="home_or_prefix">or </string>
+    <string name="home_action_browse">tap to browse</string>
+    <string name="home_action_files">browse files</string>
+    <string name="home_comma_sep">, </string>
+    <string name="home_action_folder">pick a folder</string>
+    <string name="home_or_paste">, or </string>
+    <string name="home_action_paste">paste image</string>
+    <string name="badge_png">PNG</string>
+    <string name="badge_jpeg">JPEG</string>
+    <string name="badge_webp">WEBP</string>
+    <string name="home_preset_summary">Output: WebP · %1$s · %2$s</string>
+    <string name="home_view_queue">Open Queue (%1$d)</string>
+    <string name="home_load_sample">Try sample PNG (015.png)</string>
+
+    <!-- Navigation & Actions -->
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_settings">Compression settings</string>
+    <string name="cd_history">Converted files</string>
+    <string name="cd_hero_icon">Image converter</string>
+    <string name="cd_add_images">Add PNG or JPEG images</string>
+    <string name="cd_remove_item">Remove image</string>
+    <string name="cd_share_item">Share WebP</string>
+    <string name="cd_save_item">Save WebP</string>
+    <string name="cd_preview_item">Preview image</string>
+
+    <!-- Workspace -->
+    <string name="workspace_title">Batch Queue (%1$d)</string>
+    <string name="workspace_add_more">Add</string>
+    <string name="workspace_add_images">Pick images</string>
+    <string name="workspace_add_folder">Pick folder</string>
+    <string name="workspace_paste_image">Paste from clipboard</string>
+    <string name="workspace_add_sample">Add sample PNG (015.png)</string>
+    <string name="workspace_clear">Clear</string>
+    <string name="workspace_convert_all">Convert %1$d to WebP</string>
+    <string name="workspace_converting">Converting %1$d of %2$d…</string>
+    <string name="workspace_reconvert">Re-convert with new settings</string>
+    <string name="workspace_save_gallery">Save to Gallery</string>
+    <string name="workspace_export_folder">Export Folder</string>
+    <string name="workspace_share_all">Share</string>
+    <string name="workspace_summary_saved">Saved %1$s (%2$s smaller)</string>
+
+    <!-- Settings -->
+    <string name="settings_title">WebP Output Settings</string>
+    <string name="settings_mode_label">Compression</string>
+    <string name="settings_mode_lossy">Lossy</string>
+    <string name="settings_mode_lossless">Lossless</string>
+    <string name="settings_quality_label">Quality</string>
+    <string name="settings_lossless_note">Lossless preserves every pixel (larger files, best for crisp graphics &amp; transparency).</string>
+    <string name="settings_resize_label">Max Dimension</string>
+    <string name="settings_theme_label">Appearance</string>
+    <string name="settings_done">Done</string>
+
+    <!-- History -->
+    <string name="history_title">Converted WebPs</string>
+    <string name="history_empty_title">No converted WebPs yet</string>
+    <string name="history_empty_subtitle">Converted images appear here so you can share or export them anytime.</string>
+    <string name="history_clear_all">Clear All</string>
+
+    <!-- Messages -->
+    <string name="msg_no_supported_images">No PNG or JPEG images found in that selection.</string>
+    <string name="msg_added_images">Added %1$d image(s) to queue.</string>
+    <string name="msg_clipboard_empty">No PNG or JPEG image found on clipboard.</string>
+    <string name="msg_converted_done">Converted %1$d image(s) to WebP.</string>
+    <string name="msg_converted_and_saved">Converted %1$d image(s) &amp; saved to Pictures/WebP Studio.</string>
+    <string name="msg_saved_gallery">Saved %1$d WebP image(s) to Pictures/WebP Studio.</string>
+    <string name="msg_exported_folder">Exported %1$d WebP file(s) to selected folder.</string>
+    <string name="msg_saved_single">Saved WebP file.</string>
+    <string name="msg_use_folder_export">Please choose a destination folder to save on this Android version.</string>
+    <string name="workspace_saved_auto">Auto-saved to Pictures/WebP Studio</string>
+</resources>
